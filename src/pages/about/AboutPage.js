@@ -6,6 +6,7 @@ import { ImageList, ImageListItem } from '@mui/material';
 import Header from '../../components/appbar/Header';
 import Footer from '../../components/footer/Footer';
 
+
 export default function AboutPage() {
   return (
     <>
